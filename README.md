@@ -6,5 +6,6 @@ To solve this, a macro is created using VBA.
 1. Enable VBA (Visual Basic for Application) in Excel 
 https://www.techrepublic.com/blog/microsoft-office/how-to-enable-the-developer-tab-and-open-the-visual-basic-editor-in-word-and-excel-2016-and-office/
 
-2. Copy the code that I had write and Run the Macro. 
--
+2. Open the .bas file with notepad++ and copy the code.
+3. Run the Macro. 
+
