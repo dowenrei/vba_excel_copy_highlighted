@@ -1,4 +1,4 @@
-# vba_excel_copy_highlighted
+# Copy Highlighted Cells in Excel using VBA
 Even though we could use the Find All option to select all the highlighted cells in different column and rows in excel, Excel do not let us proceed to copy the highlighted cells " This action won't work on multiple selection".
 To solve this, a macro is created using VBA.
 
